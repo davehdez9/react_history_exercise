@@ -1,1 +1,5 @@
-# react_history_exercise
+### Initialization
+
+```
+npm install && npm start
+```
